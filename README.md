@@ -2,7 +2,7 @@
 
 - 🔭 Şuan [teamgram.com](https://www.teamgram.com)'da çalışıyorum.
 - 🌱 Microservices architecture üzerinde kendimi geliştiriyorum.
-- ⚡ Battle Royale (Warzone Tag: [eyzas](https://cod.tracker.gg/warzone/profile/atvi/eyzas%237270583/overview)) oyunlarını çok severim.
+- ⚡ Battle Royale oyunlarını çok severim. (Warzone Tag: [eyzas](https://cod.tracker.gg/warzone/profile/atvi/eyzas%237270583/overview))
 
 📕 &nbsp;**Yazılarım**
 <!-- BLOG-POST-LIST:START -->
