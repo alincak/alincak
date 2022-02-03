@@ -1,4 +1,10 @@
-### Hi there 👋
+### Merhaba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, burayı doldurmak en zoru; back-end developer yeterli
+
+- 🔭 Şuan [teamgram.com](https://www.teamgram.com)'da çalışıyorum.
+- 🌱 Microservices architecture üzerinde kendimi geliştiriyorum.
+- ⚡ Battle Royale (Warzone Tag: [eyzas](https://cod.tracker.gg/warzone/profile/atvi/eyzas%237270583/overview)) oyunlarını çok severim.
+
+📕 &nbsp;**Latest Blog Posts**
 
 <!--
 **alincak/alincak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
