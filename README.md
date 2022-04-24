@@ -1,6 +1,6 @@
 ### Merhaba <img src="./Icons/Hi.gif" height="32" />, back-end developer yeterli 😄
 
-- 🔭 Şuan [teamgram.com](https://www.teamgram.com)'da çalışıyorum.
+- 🔭 Şuan [turkishairlinesholidays.com](https://www.turkishairlinesholidays.com/tr-tr)'da çalışıyorum.
 - 🌱 Microservices architecture üzerinde kendimi geliştiriyorum.
 - ⚡ Battle Royale oyunlarını çok severim. (Warzone Tag: [eyzas](https://cod.tracker.gg/warzone/profile/atvi/eyzas%237270583/overview))
 
