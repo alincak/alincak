@@ -1,7 +1,7 @@
-### Merhaba <img src="./Icons/Hi.gif" height="32" />, back-end developer yeterli 😄
+### Merhaba <img src="./Icons/Hi.gif" height="32" />, back-end developer yeterli :)
 
 - 🔭 Şuan [Turkish Airlines Holidays](https://www.turkishairlinesholidays.com/tr-tr)'de çalışıyorum.
-- 🌱 Microservices architecture üzerinde kendimi geliştiriyorum.
+<!-- - 🌱 Microservices architecture üzerinde kendimi geliştiriyorum. -->
 - ⚡ Battle Royale oyunlarını çok severim. (Warzone Tag: [eyzas](https://cod.tracker.gg/warzone/profile/atvi/eyzas%237270583/overview))
 
 📕 &nbsp;**Yazılarım**
